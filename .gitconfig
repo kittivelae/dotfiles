@@ -1,0 +1,8 @@
+[user]
+	email = 36058289+kittivelae@users.noreply.github.com
+	name = Rhiannon Walmsley
+	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEraK/kbbo9Uiw+VJ/6nph8ObDkXIeTMkn7WmmjIXiQD 36058289+kittivelae@users.noreply.github.com
+[gpg]
+	format = ssh
+[credential]
+	helper = /usr/lib/git-core/git-credential-libsecret

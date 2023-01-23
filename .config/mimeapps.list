@@ -1,0 +1,25 @@
+[Default Applications]
+x-scheme-handler/nxm=modorganizer2-nxm-handler.desktop
+application/zip=userapp-unzip-CR1YY1.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-FCMQY1.desktop
+message/rfc822=userapp-Thunderbird-FCMQY1.desktop
+x-scheme-handler/mid=userapp-Thunderbird-FCMQY1.desktop
+x-scheme-handler/webcal=userapp-Thunderbird-DZN9Y1.desktop
+text/calendar=userapp-Thunderbird-DZN9Y1.desktop
+application/x-extension-ics=userapp-Thunderbird-DZN9Y1.desktop
+x-scheme-handler/webcals=userapp-Thunderbird-DZN9Y1.desktop
+
+[Added Associations]
+image/jpeg=firefox.desktop;
+video/mp4=qv4l2.desktop;
+image/png=firefox.desktop;
+image/gif=firefox.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=firefox.desktop;
+application/x-trash=nvim.desktop;
+application/zip=userapp-unzip-CR1YY1.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-FCMQY1.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-FCMQY1.desktop;
+x-scheme-handler/webcal=userapp-Thunderbird-DZN9Y1.desktop;
+x-scheme-handler/webcals=userapp-Thunderbird-DZN9Y1.desktop;
+
+[Removed Associations]

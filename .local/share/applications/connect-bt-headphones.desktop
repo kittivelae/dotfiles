@@ -1,0 +1,7 @@
+
+[Desktop Entry]
+Type=Application
+Name=Connect to BT Headphones
+Terminal=false
+Exec=bluetoothctl connect 4C:87:5D:54:4A:FD
+Categories=Command;
