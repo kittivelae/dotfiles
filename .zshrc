@@ -151,7 +151,7 @@ _cfgedit() {
 }
 
 _condalaunch() {
-    source /home/rhiannon/anaconda3/bin/activate && conda activate $1 && code --enable-features=UseOzonePlatform --ozone-platform=wayland	
+    source /home/rhiannon/anaconda3/bin/activate && conda activate $1	
 }
 
 # Uncomment the following line to disable bi-weekly auto-update checks.
