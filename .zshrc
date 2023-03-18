@@ -171,3 +171,4 @@ alias ll="ls -la"
 alias doas="sudo"
 alias htop=btop
 alias steamp5="nohup steam -no-cef-sandbox -steamdeck &> /dev/null &"
+alias webcordfix="rm /home/rhiannon/.config/WebCord/windowState.json && webcord"

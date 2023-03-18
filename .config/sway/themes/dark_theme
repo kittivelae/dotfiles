@@ -1,0 +1,6 @@
+set $background "#1c1c1c"
+set $foreground "#c0c0c0"
+set $border "#444444"
+set $client_focused "#3a3a3a"
+set $client_unfocused "#6a6a6a"
+set $wallpaper "/path/to/dark_mode_wallpaper.jpg"

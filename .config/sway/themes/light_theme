@@ -1,0 +1,9 @@
+set $background "#9CE0FF"
+set $foreground "#FFB6C1"
+set $border "#000000"
+set $client_focused "#FFB6C1"
+set $client_unfocused "#bbbbbb"
+set $wallpaper "/path/to/light_mode_wallpaper.jpg"
+
+set $statusline "#FFB6C1"
+set $status_background "000000"
